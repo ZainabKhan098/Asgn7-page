@@ -1,0 +1,230 @@
+
+.nan-links-container{
+    padding-left: 60%;
+    font-family: "Raleway", sans-serif;
+}
+.nav-item:hover{
+    background-color: #cccccc;
+}
+#bg-img-section{
+    margin-top: 60px;
+    background-image: url("images/mac.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    font-family: "Raleway", sanss-serif;
+}
+.text-line1{
+    padding: 290px 0px 0px 70px;
+    font-size: 97px;
+}
+.text-line2{
+    padding: 45px 0px 0px 70px;
+}
+.button1-container{
+    padding: 45px 0px 0px 70px;
+}
+.button1{
+    background-color: #9d9e9e;
+    border-radius: 0px;
+}
+.button1:hover{
+    background-color: #c6cccc;
+}
+.icon-container{
+    padding: 300px 0px 0px 70px;
+}
+.icon1{
+    color: #757575;
+}
+.icon1:hover{
+    color: #5c5c5c;
+}
+#about-section{
+    padding: 200px 0px 200px 0px;
+    font-family:"Raleway", sans-serif ;
+}
+.about-container{
+    margin: 0px 50px 0px 50px;
+}
+.about-textline1{
+    font-weight: 500;
+}
+.about-textline2{
+    width: 500px;
+    font-size: 21px;
+    font-weight: 500;
+}
+.icon2{
+    padding: 50px 0px 50px 200px;
+}
+#design-section{
+    background-color: #f1f1f1;
+}
+.design-container{
+    padding: 220px 60px ;
+    
+}
+.design-txt-container{
+    font-family: "Raleway", sans-serif ; 
+}
+.design-text-line2{
+    width: 800px;
+    color: #000000;
+}
+.button2{
+    padding: 10px 25px;
+    background-color:#000000;
+    color: #ffff;
+}
+.button2:hover{
+    background-color: #cccccc;
+    color:#000000;
+}
+.phone_buildings {
+    height: 600px;
+    width: 1000px;
+}
+#team-section{
+    padding-top: 200px
+}
+.team-heading-container{
+    font-family: "Raleway", sans-serif ; 
+}
+.img-color{
+    filter: grayscale(75%);
+}
+.card1{
+    border-radius: 0px !important;
+}
+.team-info-container{
+    font-family: "Raleway", sans-serif;
+    padding-top: 75px;
+}
+.card-container{
+    width: 530px;
+}
+.button3{
+    padding: 20px 0px; 
+    width: 100%;
+    background-color: #f1f1f1;
+}
+.button3:hover{
+   background-color: #cccccc;
+}
+#number-section{
+    background-color: #616161;
+    margin-top: 200px;
+    padding: 80px 10px;
+}
+.number{
+    font-size: 55px;
+}
+.num-container{
+    color: #ffffff;
+    font-family: "Raleway", sans-serif;
+}
+#work-section{
+    padding-top: 200px;
+}
+.work-heading-container{
+    font-family:"Raleway", sans-serif;
+}
+.work-img-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-row-gap: 30px;
+    margin: 90px 45px 0px 45px;
+}
+.work-img{
+    width: 520px;
+}
+.work-img:hover{
+    opacity: 0.7 ;
+}
+#skill-section{
+    margin-top: 200px;
+    padding: 30px 45px;
+    background-color: #f1f1f1;
+}
+.skill-container{
+    display: grid;
+    grid-template-columns: auto auto;
+    font-family:"Raleway", sans-serif ;
+    grid-column-gap: 200px;
+    padding: 100px 0px 50px 0px;
+}
+.prog-class{
+    background-color: #9e9e9e !important;
+    border-radius: 0px !important;
+    height: 45px !important;
+    width: 1000px !important;
+}
+.prog-bg{
+    background-color: #616161 !important;
+}
+#pricing-section{
+    background-color: #616161;
+    padding: 100px 0px 100px 0px;
+}
+.pricing-heading-container{
+    font-family:"Raleway", sans-serif ;
+}
+.price-card-container{
+    margin: 100px 50px 0px 50px;
+}
+.card-pricing{
+    border-radius: 0px !important;
+    font-family: "Raleway", sans-serif ;
+    width: 700px;
+    height: auto;
+}
+.price-card-footer{
+    border-color: #cecece;
+    background-color: #f1f1f1;
+}
+.sign-up-btn{
+    border-radius: 0px !important;
+}
+.sign-up-btn:hover{
+    background-color: #cccccc !important;
+    color: black !important;
+}
+.divider{
+    width: 100%;
+}
+.pro-header{
+    background-color: #f44336 !important;
+    padding: 50px 0px 50px 0px!important;
+}
+#contact-section{
+    background-color: #f1f1f1;
+    padding: 200px 0px 200px 0px;
+}
+.input::placeholder{
+    color: #757575;
+}
+.inputs{
+    width: 100%;
+}
+.map-img{
+    padding-top: 100px;
+    width: 100%;
+    height: 1100px;
+    filter: grayscale(75%);
+}
+.top-btn{
+    background-color: #f1f1f1;
+    color: #000000;
+}
+#footer-section{
+    background-color: #000000;
+    padding: 100px 0px 100px 0px;
+    font-family: "Raleway", sans-serif ;
+}
+.top-btn:hover{
+    background-color: #cccccc;
+    border: none;
+}
